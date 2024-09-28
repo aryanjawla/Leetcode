@@ -32,4 +32,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aryanjawla/Leetcode/tree/master/0070-climbing-stairs) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/aryanjawla/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
