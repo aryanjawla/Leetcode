@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/aryanjawla/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/aryanjawla/Leetcode/tree/master/0015-3sum) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/aryanjawla/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
