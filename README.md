@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/aryanjawla/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/aryanjawla/Leetcode/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/aryanjawla/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/aryanjawla/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/aryanjawla/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/aryanjawla/Leetcode/tree/master/0268-missing-number) |
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/aryanjawla/Leetcode/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/aryanjawla/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/aryanjawla/Leetcode/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
