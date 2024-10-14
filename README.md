@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/aryanjawla/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryanjawla/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aryanjawla/Leetcode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/aryanjawla/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/aryanjawla/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/aryanjawla/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/aryanjawla/Leetcode/tree/master/0268-missing-number) |
@@ -32,11 +33,13 @@
 | [0015-3sum](https://github.com/aryanjawla/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryanjawla/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aryanjawla/Leetcode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/aryanjawla/Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/aryanjawla/Leetcode/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/aryanjawla/Leetcode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/aryanjawla/Leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/aryanjawla/Leetcode/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
