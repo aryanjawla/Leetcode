@@ -12,6 +12,7 @@
 | [0136-single-number](https://github.com/aryanjawla/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/aryanjawla/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/aryanjawla/Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/aryanjawla/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/aryanjawla/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/aryanjawla/Leetcode/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aryanjawla/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -36,6 +37,7 @@
 | [0027-remove-element](https://github.com/aryanjawla/Leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/aryanjawla/Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/aryanjawla/Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/aryanjawla/Leetcode/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
