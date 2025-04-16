@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryanjawla/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aryanjawla/Leetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/aryanjawla/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/aryanjawla/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/aryanjawla/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/aryanjawla/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/aryanjawla/Leetcode/tree/master/0136-single-number) |
@@ -95,9 +96,14 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/aryanjawla/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/aryanjawla/Leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/aryanjawla/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/aryanjawla/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
