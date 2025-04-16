@@ -16,6 +16,7 @@
 | [0268-missing-number](https://github.com/aryanjawla/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aryanjawla/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/aryanjawla/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/aryanjawla/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/aryanjawla/Leetcode/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aryanjawla/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
@@ -24,6 +25,7 @@
 | [0001-two-sum](https://github.com/aryanjawla/Leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/aryanjawla/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/aryanjawla/Leetcode/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/aryanjawla/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
 | ------- |
@@ -94,4 +96,8 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/aryanjawla/Leetcode/tree/master/0073-set-matrix-zeroes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/aryanjawla/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
