@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/aryanjawla/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryanjawla/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aryanjawla/Leetcode/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/aryanjawla/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/aryanjawla/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/aryanjawla/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/aryanjawla/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -32,6 +33,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/aryanjawla/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aryanjawla/Leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/aryanjawla/Leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/aryanjawla/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/aryanjawla/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/aryanjawla/Leetcode/tree/master/0268-missing-number) |
@@ -96,6 +98,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/aryanjawla/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/aryanjawla/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/aryanjawla/Leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Prefix Sum
